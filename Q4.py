@@ -9,4 +9,3 @@ class Empresa:
 
 p1 = Pessoa("Ana")
 e1 = Empresa("TechCorp", p1) 
-# Correção: Passando o objeto Pessoa 'p1' como funcionário
